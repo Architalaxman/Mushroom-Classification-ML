@@ -1,0 +1,27 @@
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+2. Open Jupyter Notebook
+3. Run all cells step-by-step
+4. Load the trained model using joblib
+
+---
+
+## 💡 Key Insights
+- Feature engineering and preprocessing significantly improved accuracy
+- Random Forest handled categorical-heavy data effectively
+- Oversampling helped in balancing class distribution
+
+---
+
+## 📌 Future Improvements
+- Try advanced models (XGBoost, LightGBM)
+- Deploy model using Flask or Streamlit
+- Add real-time prediction interface
+
+---
+
+## 👩‍💻 Author
+Archita J Laxman
